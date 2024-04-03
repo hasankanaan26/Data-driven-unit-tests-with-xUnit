@@ -1,0 +1,14 @@
+[
+  {
+    "Numbers": [ 1, 2, 3, 4, 5 ],
+    "ExpectedAverage": 3.0
+  },
+  {
+    "Numbers": [ 10, 20, 30, 40, 50 ],
+    "ExpectedAverage": 30.0
+  },
+  {
+    "Numbers": [ 100, 200, 300, 400, 500 ],
+    "ExpectedAverage": 300.0
+  }
+]

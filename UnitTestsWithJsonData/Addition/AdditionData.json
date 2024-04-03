@@ -1,0 +1,17 @@
+[
+  {
+    "FirstOperand": 2,
+    "SecondOperand": 3,
+    "ExpectedResult": 5
+  },
+  {
+    "FirstOperand": -1,
+    "SecondOperand": 5,
+    "ExpectedResult": 4
+  },
+  {
+    "FirstOperand": 0,
+    "SecondOperand": 0,
+    "ExpectedResult": 0
+  }
+]
